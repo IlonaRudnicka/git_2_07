@@ -1,4 +1,4 @@
 # Mój projekt w GIT i PY
 
 
-## Aplikacja dla osób pełnoletnich
+## Aplikacja dla osób pełnoletnich w Pythonie
