@@ -6,7 +6,7 @@ if wiek.isdigit() == False:
 wiek = int(wiek)
 if wiek >= 21 and wiek <= 50 and region == 'USA':
     print("Jesteś w USA! Witaj w naszym sklepie z alkoholem")
-elif wiek >= 18 and wiek <= 50:
+elif wiek >= 18 and wiek <= 50 and region != 'USA':
     print("Witaj w naszym sklepie z alkoholem")
 elif wiek > 50:
     print("Witaj w naszym sklepie z alkoholem")
