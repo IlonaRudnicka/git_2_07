@@ -3,9 +3,9 @@ wiek = input("Podaj wiek użytkownika: ")
 if wiek.isdigit() == False:
     exit("Wiek musi być podany jako liczba")
 wiek = int(wiek)
-if wiek >= 18 and wiek <= 40:
+if wiek >= 18 and wiek <= 50:
     print("Witaj w naszym sklepie z alkoholem")
-elif wiek > 40:
+elif wiek > 50:
     print("W Twoim wieku alkohol jest już szkodliwy")
 else:
-    exit("Jesteś za młody na alkohol!")        
+    exit("Jesteś za młody na alkohol!")
