@@ -14,7 +14,3 @@ v.1.0:
 v.1.1
 - [x] zwiększenie limitu do 50 lat bez ostrzeżenia
 - [x] lepsza obsługa osób osób j/w
-
-
-v.2.0
-- [x] obsługa użytkowników z USA (dorosły od 21)
