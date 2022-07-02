@@ -14,3 +14,6 @@ v.1.0:
 v.1.1
 - [x] zwiększenie limitu do 50 lat bez ostrzeżenia
 - [x] lepsza obsługa osób osób j/w
+
+
+UPDATED changed
