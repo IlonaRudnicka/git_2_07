@@ -4,7 +4,7 @@
 ## Aplikacja dla osób pełnoletnich w Pythonie
 
 
-Funkcjonalności aplikacji w wersji 
+Funkcjonalności aplikacji w wersji
 
 v.1.0:
 - [x] obsługa osób dorosłych
